@@ -7,4 +7,6 @@ Reference : DLithe
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
-Done by: <SINDHURA D. KOTIAN><4NM17IS102>
+Done by:
+Name:Sindhura D. Kotian
+USN:4NM17IS102
